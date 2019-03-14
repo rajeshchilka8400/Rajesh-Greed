@@ -1,0 +1,197 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"b",
+				"butter"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/rajeshchilka/Downloads/koans/about_dice_project.rb",
+		"/Users/rajeshchilka/Downloads/koans/about_message_passing.rb",
+		"/Users/rajeshchilka/Downloads/koans/about_class_methods.rb",
+		"/Users/rajeshchilka/Downloads/koans/about_scope.rb",
+		"/Users/rajeshchilka/Downloads/koans/about_inheritance.rb",
+		"/Users/rajeshchilka/Downloads/koans/about_classes.rb",
+		"/Users/rajeshchilka/Downloads/koans/about_open_classes.rb",
+		"/Users/rajeshchilka/Downloads/koans/about_modules.rb",
+		"/Users/rajeshchilka/Downloads/koans/about_triangle_project_2.rb",
+		"/Users/rajeshchilka/Downloads/koans/about_sandwich_code.rb",
+		"/Users/rajeshchilka/Downloads/koans/about_iteration.rb",
+		"/Users/rajeshchilka/Downloads/koans/about_blocks.rb",
+		"/Users/rajeshchilka/Downloads/koans/about_constants.rb",
+		"/Users/rajeshchilka/Downloads/koans/about_control_statements.rb",
+		"/Users/rajeshchilka/Downloads/koans/about_true_and_false.rb",
+		"/Users/rajeshchilka/Downloads/koans/triangle.rb",
+		"/Users/rajeshchilka/Downloads/koans/about_exceptions.rb",
+		"/Users/rajeshchilka/Downloads/koans/about_keyword_arguments.rb",
+		"/Users/rajeshchilka/Downloads/koans/about_methods.rb",
+		"/Users/rajeshchilka/Downloads/koans/about_asserts.rb",
+		"/Users/rajeshchilka/Downloads/koans/about_hashes.rb",
+		"/Users/rajeshchilka/Downloads/koans/about_strings.rb",
+		"/Users/rajeshchilka/Downloads/koans/about_arrays.rb",
+		"/Users/rajeshchilka/Downloads/koans/about_regular_expressions.rb",
+		"/Users/rajeshchilka/Downloads/koans/neo.rb",
+		"/Users/rajeshchilka/Downloads/koans/about_nil.rb",
+		"/Users/rajeshchilka/Downloads/koans/about_symbols.rb",
+		"/Users/rajeshchilka/Downloads/koans/about_objects.rb",
+		"/Users/rajeshchilka/Downloads/koans/about_array_assignment.rb"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "start_game.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 262.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
